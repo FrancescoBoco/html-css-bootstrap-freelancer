@@ -1,9 +1,67 @@
 
+ /* COLORS  */
 
 
+ .c-b-g{
+    background-color: #57B99D;
+ }
+
+ .c-b-d{
+    background-color: #3F546B;
+ }
+
+ .my-fs-6{
+    font-size: 0.6em;
+ }
+ 
+
+
+  /* GENERAL */
+
+  .img{
+    width:15%;
+  }
+
+  img{
+    width: 100%;
+  }
+
+  .star-line{
+    width: 10%;
+    display: inline-block;
+    background-color: white;
+    height: 3px;
+    border-radius: 15px;
+    align-items: center;
+  }
+
+  .star-line-black{
+    width: 10%;
+    display: inline-block;
+    background-color: black;
+    height: 3px;
+    border-radius: 15px;
+    align-items: center;
+  }
+
+  .border-radius{
+    height: 40px;
+    width: 40px;
+    border-radius: 50% ;
+    border: 1px solid white;
+  }
 /* HEADER  */
 
 header {
     background-color: aqua;
+}
+
+.my-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.word-space{
+    word-spacing: 1em;
 }
 
