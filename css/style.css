@@ -19,7 +19,8 @@
   /* GENERAL */
 
   .img{
-    width:15%;
+    max-width:40%;
+    width: 300px;
   }
 
   img{
